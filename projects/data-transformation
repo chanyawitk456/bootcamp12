@@ -1,1 +1,6 @@
 
+library(dyplr)
+
+df %>%
+select * from cutomer
+where 
